@@ -28,6 +28,7 @@
 
 .opciones ul{
     display: flex;
+    font-size: 20px;
 }
 .opciones ul li{
    padding:25px;
@@ -36,5 +37,7 @@
 }
 
 .opciones ul li:hover{
-    color:#ffd200;
+    color:#42A5F5;
+    margin-top:2px;
+
 }
